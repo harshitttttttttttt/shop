@@ -1,0 +1,131 @@
+#outer{
+    border-top: 10px solid darkorange;
+}
+#menue{
+
+height: 40px;
+width:100%;
+background-color: aquamarine;
+}
+#menueul{
+    list-style: none;
+}
+.menueli{
+float: left;
+margin: 10px;
+}
+.menuea{
+
+    text-decoration: none;
+ padding: 10px;
+}
+
+.menuea:hover{
+    height:50px;
+    width:60px;
+    background-color:aqua;
+    border-radius: 20px;
+    color:white;
+}
+body{
+    margin: 0px;
+}
+#imageimage{
+    width:100%;
+    height:600px;
+}
+.cate1a{
+    height: 50px;
+    width:200px;
+    margin:10px;
+    background-color: antiquewhite;
+    font-weight: bold;
+    line-height: 50px;
+    float:left;
+    text-align: center;
+    border-radius: 20px;
+}
+#cate1{
+    /* border: 2px solid black; */
+    width:100%;
+    box-sizing:border-box;
+    min-height: 400px;
+    align-items: center;
+    padding: 0px  30px;
+
+}
+.cate1a:hover{
+    color:white;
+    background-color: darkorange;
+    outline: 5px solid antiquewhite;
+    box-shadow: 2px 5px 20px 1px black;
+    
+}
+.item1a{
+    height: 500px;
+    width:400px;
+    border:2px solid black;
+    box-sizing: border-box;
+    position:relative;
+    left:50px;
+}
+#item1{
+    width:100%;
+    box-sizing: border-box;
+    align-items: center;
+    padding: 0px 30px;
+    float:left;
+}
+.itemh{
+    background-color: darkorange; text-align: center;height:40px;line-height: 40px;
+    border-radius: 0px 0px 5px 5px;
+}
+.itemh:hover{
+    background-color: antiquewhite;
+    color:black;
+}
+.cate1aa{
+    height: 50px;
+    width:300px;
+    margin:70px;
+    /* background-color: antiquewhite; */
+    /* font-weight: bold; */
+    /* line-height: 50px; */
+    float:left;
+    /* text-align: center; */
+    border-radius: 20px;
+    box-sizing: border-box;
+}
+#offer{
+    height:550px;
+    width:100%;
+    border:2px solid black;
+    box-sizing:border-box;
+    float:left;
+}
+#offer1{
+    height:550px;
+    width:50%;
+    /* border:2px solid black; */
+    box-sizing:border-box;
+    float: left;
+    padding:40px;
+    margin-top: -40px;
+}
+#offer2{
+    height:550px;
+    width:50%;
+    /* border:2px solid black; */
+    box-sizing:border-box;
+    float:left;
+    padding: 20px;
+    font-size: 40px;
+}
+.adminf{
+    height:200px;
+    width:200px;
+    background-color: darkorange;
+    margin: 20px;
+    box-sizing: border-box;
+    float: left;
+}
